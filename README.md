@@ -1,3 +1,3 @@
 # Modern Portfolio
 
-[a link](https://chris24elias.github.io)
+[Live Demo](https://chris24elias.github.io/modern_portfolio/)
